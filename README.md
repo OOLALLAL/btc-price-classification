@@ -1,4 +1,4 @@
-# BTC Price Movement Classification
+# Price Movement Classification
 
 This project builds a feature-rich dataset from historical BTC-USD data and trains
 a Random Forest classifier to predict short-term price movement classes:
